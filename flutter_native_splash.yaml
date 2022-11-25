@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#ffffff"
+  #background_image: "assets/background.png"
+  image: assets/images/splash.png
+  color_dark: "#ffffff"
+  #background_image_dark: "assets/dark-background.png"
+  image_dark: assets/images/splash.png
+  # branding_dark: assets/rms.png
+
+  android_12:
+    image: assets/images/android12splash.png
+    # Splash screen background color.
+    color: "#ffffff"
+    # App icon background color.
+    # icon_background_color: "#0764b1"
+    image_dark: assets/images/android12splash.png
+    color_dark: "#ffffff"
+    # icon_background_color_dark: "#0764b1"
